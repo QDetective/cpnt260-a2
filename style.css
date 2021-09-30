@@ -70,7 +70,7 @@ body {
   }
   
   .card-1 {
-    background-image: url("https://cdn.pixabay.com/photo/2020/06/21/15/40/lockpick-5325550_1280.jpg");
+    background-image: url("assets/images/card1.jpg");
     background-position: center;
     background-size: cover;
     max-width: 50ch;
@@ -78,7 +78,7 @@ body {
   }
   
   .card-2 {
-    background-image: url("https://media.istockphoto.com/photos/man-uses-lockpicking-tools-to-pick-the-lock-of-a-house-picture-id1164597463?s=612x612");
+    background-image: url("assets/images/card2.jpg");
     background-position: center;
     background-size: cover;
     max-width: 50ch;
@@ -86,7 +86,7 @@ body {
   }
   
   .card-3 {
-    background-image: url("https://cdn.pixabay.com/photo/2018/04/24/22/33/key-3348307_1280.jpg");
+    background-image: url("assets/images/card3.jpg");
     background-position: center;
     background-size: cover;
     max-width: 50ch;
